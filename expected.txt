@@ -1,0 +1,18 @@
+<p align="center"><strong>Text</strong></p>
+<p align="center">&nbsp;</p>
+<p><span style="font-weight: 400;">This is a sentence. It has commas, and sometimes, it's got apostrophes.</span></p>
+
+<p><span style="font-weight: 400;">word&mdash;another word&mdash;</span></p>
+
+<p><span style="font-weight: 400;">&ldquo;Quote,&rdquo; he said.</span></p>
+
+<p><span style="font-weight: 400;">&ldquo;Thing&mdash;another thing.&rdquo;</span></p>
+
+<p><span style="font-weight: 400;">I <em>really</em> like italics.</span></p>
+test <em>italics</em>.
+test <em>italics</em>.
+“What are you <em> doing</em>?”
+“So?” <em> Example text. </em>
+this sentence is going to <em> do </em>something.</p>
+<p>“What do you mean, <em> so</em>?”</p>
+“<em> I’m </em>not!”
